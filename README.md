@@ -13,3 +13,5 @@ it on admin page
 Product section has a list of products , there is a price and brand and category filter on it,
 product detail page a sweet alert on the add to cart button that use json response on it , has different massage, icon, and button depend on the user situation
 detail page also has simillar products on the bottom of the page that is a slider and show 12 of the newest products in that brand
+user basket , there is a list of products that u added to the basket, u can change the number of products u add to the basket and it will immidiatley refreshes the basket no need to refresh the page, i used sweet alert in this page when u delete the product frm the basket.
+after this page there is a page to pay tyhe price and complete the order using zarinpal
