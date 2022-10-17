@@ -1,6 +1,6 @@
 # eshop_project
 
-a django base online shop site
+a django base online shop site using sqlite as the database
 main page with header is all dynamic costume sliders , sliders for most viewed products, most visited products and ... , footer with dynamic box and links, there is a 
 site setting in that you can dynamicly costume your setting such as logo , name , address, phone, link boxes and links in footer , copy right text and ...
 account page with edit information page, previous basket details and all order details , login and log out page , resset password page, forget password page, emali service
